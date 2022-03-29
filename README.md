@@ -1,2 +1,2 @@
-# djangopolls
-Polling &amp; Voting app using Django
+# Poll_App
+Arpan Ghosh(Django)
